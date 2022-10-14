@@ -1,0 +1,11 @@
+{
+  "name": "amarpathak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amarpathak/amarpathak.git",
+  "license": "MIT",
+  "dependencies": {
+    "base64-buffer-thumbnail-no-cache": "^1.0.2",
+    "revise-sdk": "^0.1.16"
+  }
+}
